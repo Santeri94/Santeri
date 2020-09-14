@@ -2,4 +2,4 @@ this is the second part of tools
 this is indeed a tools file
 this is a tools file
 indeed we have here some text
-Greetings from my coumputer
+Greetings from my computer and from github
